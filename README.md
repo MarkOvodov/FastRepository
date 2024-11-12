@@ -1,3 +1,3 @@
 # FastRepository
 for the first task
-and for the first commit
+and for the first commit with different name
